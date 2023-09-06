@@ -10,7 +10,7 @@ class FirstPage extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Color(0xff1e1e1e),
         title: const Text(
-          'yukke@プログラミング修行中',
+          'yukke@プログラミング猛修行中',
           style: TextStyle(
             color: Colors.white,
           ),
